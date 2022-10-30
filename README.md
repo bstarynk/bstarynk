@@ -7,9 +7,9 @@ My personal web page is http://starynkevitch.net/Basile/
 My employer (in 2022) is CEA LIST at https://list.cea.fr/
 
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in open source projects and artificial intelligence
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on [RefPerSys](http://refpersys.org/)
 - 📫 How to reach me : by email : at office to `basile.starynkevitch@cea.fr` or at home to `basile@starynkevitch.net`
 
 <!---
