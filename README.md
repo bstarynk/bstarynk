@@ -4,7 +4,7 @@ I am Basile Starynkevitch (born in 1959, living and working in France, husband, 
 
 My personal web page is http://starynkevitch.net/Basile/
 
-My employer (in 2022) is CEA LIST at https://list.cea.fr/
+My employer (in 2023) is CEA LIST at https://list.cea.fr/
 
 
 - 👀 I’m interested in open source projects and artificial intelligence
