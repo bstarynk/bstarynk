@@ -2,7 +2,7 @@
 
 I am Basile Starynkevitch (born in 1959, living and working in France, husband, father and grandfather)
 
-My personal web page is http://starynkevitch.net/Basile/
+My personal web page is http://starynkevitch.net/Basile/ (where you can find my mobile phone number and resume and postal adress)
 
 My employer (in 2023) is CEA LIST at https://list.cea.fr/
 
