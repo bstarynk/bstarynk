@@ -8,7 +8,11 @@ My personal web page is http://starynkevitch.net/Basile/ (where you can find my 
 - 👀 I’m interested in open source projects and artificial intelligence
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on [RefPerSys](http://refpersys.org/)
-- 📫 How to reach me : by email : at home to `basile@starynkevitch.net`
+- 📫 How to reach me : by email : at home to `basile@starynkevitch.net` or by postal mail to: <br/>
+      Basile STARYNKEVITCH<br/>
+      8 rue de la Faïencerie<br/>
+      92340 Bourg-la-Reine<br/>
+      France
 
 <!---
 bstarynk/bstarynk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
