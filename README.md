@@ -7,7 +7,7 @@ My personal web page is http://starynkevitch.net/Basile/ (where you can find my 
 
 - 👀 I’m interested in open source projects and artificial intelligence
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on [RefPerSys](http://refpersys.org/)
+- 💞️ I’m looking to collaborate on [RefPerSys](http://refpersys.org/) -**REF**lexive **PER**sistent **SYS**tem- an open source symbolic inference engine (artificial intelligence) on [github](https://github.com/RefPerSys/RefPerSys/)
 - 📫 How to reach me : by email : at home to `basile@starynkevitch.net` (or to `b.starynkevitch@gmail.com`) or by postal mail to: <br/>
       Basile STARYNKEVITCH<br/>
       8 rue de la Faïencerie<br/>
